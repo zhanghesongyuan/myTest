@@ -1,11 +1,1 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "NHDCPYSW3N.com.zlihf.xianyugame.gat",
-                "paths": [ "*"]
-            }
-        ]
-    }
-}
+{"applinks":{"details":[{"paths":["ulk/litetao"],"appID":"XN6U3EV979.com.taobao.special"},{"paths":["*"],"appID":"VG68Y2X7TH.com.taobao.taobao4iphone"},{"paths":["*"],"appID":"5NL6SCD44B.com.taobao.taobao4iphone"},{"paths":["*"],"appID":"VG68Y2X7TH.com.taobao.taobao4iphone.beta"},{"paths":["*"],"appID":"5NL6SCD44B.com.taobao.taobao4iphone.beta"}],"apps":[]}}
