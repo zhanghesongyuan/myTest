@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "NHDCPYSW3N.com.zlihf.xianyugame.gat",
-                "paths": [ "zhanghesongyuan.github.io/myTest/*"]
+                "paths": [ "*"]
             }
         ]
     }
