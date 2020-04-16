@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
  <meta name="description" content="胡东东博客，分享手游和app开发的日常点滴" />
+<meta property="og:image" content="https://www.baidu.com/img/superlogo_c4d7df0a003d3db9b65e9ef0fe6da1ec.png?where=super" />
 
 You can use the [editor on GitHub](https://github.com/zhanghesongyuan/myTest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
